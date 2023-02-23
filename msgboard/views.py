@@ -16,4 +16,3 @@ def board(request):
         'messages': messages,
         'form': form,
     })
-    
